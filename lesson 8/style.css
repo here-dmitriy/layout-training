@@ -1,0 +1,13 @@
+.parent {
+  color: red;
+border: 3px solid #000 ;
+}
+div {
+  color: green;
+}
+#id-block {
+  background-color: green;
+}
+.block  {
+  color: red;
+}

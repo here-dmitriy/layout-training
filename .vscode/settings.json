@@ -1,3 +1,5 @@
 {
-    "liveServer.settings.fullReload": true
+    "liveServer.settings.fullReload": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120
 }

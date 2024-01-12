@@ -1,0 +1,33 @@
+.title {
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16 px;
+  line-height: 16;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 32px;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.line {
+  height: 200px;
+  width: 100%;
+}
+
+.text_2 {
+  text-align: right;
+  text-decoration: underline;
+  text-decoration: line-through;
+  text-shadow: 2px 3px 1px #d82323;
+}
+
+.text_3 {
+  text-transform: uppercase;
+  text-indent: 500px;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+  white-space: initial;
+}

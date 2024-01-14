@@ -1,0 +1,47 @@
+body {
+  background-color: #333;
+}
+
+.wrapper {
+  padding: 50px;
+  height: 100%;
+}
+
+.conteiner {
+  position: relative;
+  height: 200px; 
+}
+
+.block {
+  background-color: #fff;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+}
+
+.block {
+animation: move-block 3s infinite alternate 1s 
+} 
+
+.block {
+  ;
+}
+
+
+@keyframes move-block {
+  0% {
+left: 0;
+  }
+  50% {
+    border-radius: 50%;
+  }
+  100% {
+left: 80%
+  }
+}
+
+@keyframes color-block {
+  100% {
+background-color: #fff;
+  }
+}

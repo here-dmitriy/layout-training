@@ -1,0 +1,39 @@
+.em {
+font-size: 20px;
+}
+.em_title-1 {
+font-size: 1,5em;
+}
+
+.em_squar {
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+}
+
+.em_squar {
+  width: 32em;
+  height: 32em;
+}
+
+.em_2 {
+  font-size: 1,5em;
+}
+
+.parent_square {
+  border: 1px solid #000;
+}
+.parent_square_chield {
+  background-color: blue;
+}
+
+.parent_square {
+  width: 700px;
+  height: 700px;
+}
+
+.parent_square_chield {
+  width: 500px;
+  height: 500px;
+  transform: translate();
+}

@@ -1,0 +1,16 @@
+.block, .inline {
+  font-size: 2rem;
+}
+
+.line {
+  background-color: #333;
+  height: 5px;
+  margin: 50px 0;
+}
+
+.content-1__block {
+  box-sizing: border-box;
+  padding: 50px 100px 150px 200px;
+  width: 600px;
+  margin-bottom: 50px;
+}

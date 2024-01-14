@@ -1,0 +1,16 @@
+.wrapper {
+  padding: 100px 100px 30vh;
+  height: 100vh;
+}
+
+.block {
+  height: 100%;
+  box-shadow: 0 0 10px #838383;
+  border-radius: 5px;
+}
+
+
+.block {
+  background: url(https://img.freepik.com/free-photo/lavender-field-at-sunset-near-valensole_268835-3910.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705104000&semt=sph) center center no-repeat;
+  background-attachment: local;
+}

@@ -20,13 +20,8 @@ body {
 }
 
 .block {
-animation: move-block 3s infinite alternate 1s 
+animation: move-block 3s infinite alternate 3s 
 } 
-
-.block {
-  ;
-}
-
 
 @keyframes move-block {
   0% {
